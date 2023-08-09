@@ -20,5 +20,6 @@
     "mongodb": "^5.1.0",
     "mongoose": "^7.0.1",
     "nodemon": "^2.0.21"
-  }
+  },
+  "proxy":"http://localhost:8081/api"
 }
